@@ -1,0 +1,51 @@
+@media screen and (max-width:730px) {
+    body {
+        overflow-x: hidden;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .cloud{
+        position: absolute;
+        top: 20px;
+        width: 70vw;
+        left: 185px;
+    }
+    .cloud-1{
+        position: absolute;
+        top: 140px;
+        width: 70vw;
+        left: -70px;
+    }
+
+    .first{
+        position: absolute;
+        top: 20px;
+        left: 77px;
+        line-height: .5;
+    }
+
+    h1{
+        width: 8%;
+    }
+
+    .top-container{
+        padding-top: 200px;
+        overflow: hidden;
+        width: 100vw; 
+    }
+
+    .middle-container{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        
+
+    }
+     
+
+    
+    
+}
